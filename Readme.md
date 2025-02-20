@@ -23,3 +23,10 @@ Vélo Connect is an innovative web application that allows users to:
 
 
 # App
+
+**Home page**
+
+ <img src="Images/home page interface.png" alt="home page interface">
+
+ <hr class="description-divider">
+
