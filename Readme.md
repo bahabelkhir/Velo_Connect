@@ -26,7 +26,23 @@ Vélo Connect is an innovative web application that allows users to:
 
 **Home page**
 
- <img src="Images/home page interface.png" alt="home page interface">
+ <img src="Images/welcome .png" alt="welcome">
 
  <hr class="description-divider">
+
+ **Bike station_availability in Lille**
+
+  <img src="Images/station disponible 1.png" alt="station disponible 1">
+   <hr class="description-divider">
+
+ **Bike station_availability in Strasbourg**
+
+  <img src="Images/station disponible 1.png" alt="station disponible 1">
+   <hr class="description-divider">
+
+   **Bike station_availability in Toulouse**
+
+  <img src="Images/station disponible2.png" alt="station disponible2">
+
+   
 
